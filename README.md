@@ -26,7 +26,7 @@
 [![Azure Pipeline](https://dev.azure.com/tvmai/tvm/_apis/build/status/windows_mac_build?branchName=master)](https://dev.azure.com/tvmai/tvm/_build/latest?definitionId=2&branchName=master)
 
 Apache TVM (incubating) is a compiler stack for deep learning systems. It is designed to close the gap between the
-productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends.
+productivity-focused deep learning frameworks, and the performance and efficiency-focused hardware backends.
 TVM works with deep learning frameworks to provide end to end compilation to different backends.
 
 License
